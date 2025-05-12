@@ -36,7 +36,7 @@ For more information, see [AWS credentials configuration](https://boto3.amazonaw
 ## Usage
 
 ```python
-from s3learning import S3Bucket, S3Object
+from s3simplified import S3Bucket, S3Object
 
 # Create a bucket handler
 bucket_handler = S3Bucket('us-east-1')
