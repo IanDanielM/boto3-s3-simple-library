@@ -1,5 +1,4 @@
-# S3Learning
-
+# AWS S3 operations
 A simple AWS S3 operations library for Python.
 
 ## Installation
